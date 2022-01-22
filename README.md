@@ -2,6 +2,9 @@
 
 This is a weather app that shows the current weather. You can search by city name (ex. London), or for more accurate data you can search by city name and country code (ex. London, GB).
 
+# Live version of the app
+https://dragan6437.github.io
+
 # Installation
 1. Clone the repo
 ```sh
